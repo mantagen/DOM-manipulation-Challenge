@@ -8,8 +8,11 @@ The DOM is the _Document Object Model_, it is the browser's interpretation of th
 ## DOM elements
 
 In your browser, if you _right-click_ on a page, you see _inspect element_.
+
 ![inpect element](./assets/inspect-element.png)
+
 In the image below, `article` is a DOM element.
+
 ![article DOM element](./assets/article-element.png)
 
 Any html elements you write will be DOM elements in the browser, for example: `div`, `span`, `input`, `section`, etc etc.
@@ -72,5 +75,7 @@ You can access DOM elements with javascript.
 ```
 
 ## DOM element properties
+
+https://www.w3schools.com/js/js_properties.asp
 
 ## DOM element methods
