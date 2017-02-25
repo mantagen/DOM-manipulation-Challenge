@@ -22,7 +22,7 @@ Any html elements you write will be DOM elements in the browser, for example: `d
 You can access DOM elements with javascript.
 
 `document.getElementById("myId")` returns the element with ID "myId";
-```
+```html
 <article id="featured-article">
   Lorem ipsum...
 </article>
@@ -34,7 +34,7 @@ You can access DOM elements with javascript.
 
 `document.getElementsByClassName("myClass")` returns an [_array-like object_](http://www.nfriedly.com/techblog/2009/06/advanced-javascript-objects-arrays-and-array-like-objects/) of all elements with the class "myClass";
 
-```
+```html
 <li class="menu-item">
   London
 </li>
@@ -61,7 +61,7 @@ You can access DOM elements with javascript.
 </script>
 ```
 `document.querySelectorAll(myCssSelector)` returns an _array-like object_ of all elements matching myCssSelector.
-```
+```html
 <li class="menu-item">
   London
 </li>
