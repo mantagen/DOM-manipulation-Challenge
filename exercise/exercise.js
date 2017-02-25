@@ -95,6 +95,13 @@ var updateStateValues(formState, inputNames){
 }
 
 /*
+Write a function which returns an **array** of values of inputs with a given class
+*/
+var getInputValues(className){
+
+}
+
+/*
 Write a function which takes a className, and returns the number of elements in
 the DOM with that className. If the function is passed an argument which doesn't
 have type `string`, the function should return 0;
@@ -122,3 +129,9 @@ of the array if element is an array.
 var generateNestedUl = function(array) {
 
 }
+
+/*
+Using the above functions, write a function which takes a filter function,
+which returns a function that takes an array, that generates a `ul` as above
+but with filtered elements.
+*/
