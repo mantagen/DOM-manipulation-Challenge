@@ -76,6 +76,23 @@ You can access DOM elements with javascript.
 
 ## DOM element properties
 
-https://www.w3schools.com/js/js_properties.asp
+We can access _properties_ of DOM elements using javscript.
+
+```html
+<section id="featured-section" class="highlight">
+  <p>Lorem ipsum...</p>
+</section>
+<script>
+  document.querySelector("#featured-section").className; // "featured-section highlight"
+</script>
+```
+
+[What are object properties in javascript?](https://www.w3schools.com/js/js_properties.asp)
+
+[Here is a list of the DOM element properties](https://developer.mozilla.org/en-US/docs/Web/API/Element#Properties)
 
 ## DOM element methods
+
+[What are object methods in javacript?](https://www.w3schools.com/js/js_object_methods.asp)
+
+[Here is a list of the DOM element methods](https://developer.mozilla.org/en-US/docs/Web/API/Element#Methods)
