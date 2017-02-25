@@ -48,7 +48,7 @@ You can access DOM elements with javascript.
 ```
 
 `document.querySelector(myCssSelector)` returns the first element matching `myCssSelector`, where `myCssSelector` takes the form of a [CSS selector](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors) for example "#myId", ".myClass", "myTag", etc etc.
-```
+```html
 <li class="menu-item">
   London
 </li>
