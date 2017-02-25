@@ -1,6 +1,13 @@
 # DOM-manipulation-Challenge
 Introduction to DOM manipulation
 
+## Exercise
+
+1. Clone this repo.
+[clone this repo]()
+
+2. Open exercise/exercise.js and follow the instructions.
+
 ## What is the DOM?
 
 The DOM is the _Document Object Model_, it is the browser's interpretation of the page once it has been [_parsed_](https://developer.mozilla.org/en-US/docs/Glossary/Parse).
