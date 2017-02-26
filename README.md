@@ -4,7 +4,6 @@ Introduction to DOM manipulation
 ## Exercise
 
 1. Clone this repo.
-![clone this repo](https://raw.githubusercontent.com/mantagen/clone-this-repo/master/abbie-hoffman-clone-this-repo-150px.jpg)
 
 2. Open exercise/exercise.js and follow the instructions.
 
