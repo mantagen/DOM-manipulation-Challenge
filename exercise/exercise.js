@@ -5,7 +5,7 @@
 Write a function which adds a class "highlight" to the introduction paragraph
 */
 var highlightText = function(){
-  document.querySelector('.introduction').classList.add('highlight');
+
 }
 // highlightText(); //uncomment me to test
 
